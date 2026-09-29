@@ -1,3 +1,4 @@
+POCKETSMART AI DEMO LINK :https://drive.google.com/file/d/1A-rXXZ7K0Esze4X6eG9fsGuA5EAFwwHi/view?usp=sharing
 # PocketSmart AI
 Run in VS Code terminal:
     python -m venv venv
